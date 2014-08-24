@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
         Toast.makeText(this, "", Toast.LENGTH_LONG).show();
         Toast.makeText(this, "", Toast.LENGTH_LONG).show();
         //Testing tagging out
+        // General code
     }
 
     @Override
