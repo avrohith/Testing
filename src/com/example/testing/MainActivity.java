@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "", Toast.LENGTH_LONG).show();
         Toast.makeText(this, "", Toast.LENGTH_LONG).show();
+        //Testing tagging out
     }
 
     @Override
